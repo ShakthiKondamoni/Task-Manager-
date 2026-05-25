@@ -121,9 +121,4 @@ Member:
 member@test.com / member123
 ```
 
-## Submission Checklist
 
-- Live URL
-- GitHub repo
-- README
-- 2–5 min demo video
